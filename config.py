@@ -26,7 +26,7 @@ CHANNEL = os.environ.get("CHANNEL", "ULTROID_OFFICIAL") # WITHOUR @
 
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "--1002316889331"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002316889331"))
 
 #OWNER ID
 #OWNER_ID = int(os.environ.get("OWNER_ID", "5851158054"))
